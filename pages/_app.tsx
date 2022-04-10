@@ -29,7 +29,8 @@ function MyApp({ Component, pageProps}: AppProps) {
         <WalletModalProvider>
           <Layout>
             <Head>
-              <title>StreamDAO Cookies Inc</title>
+              <title>StreamPay</title>
+              <title>Cookies Inc</title>
             </Head>
             <Component {...pageProps} />
           </Layout>

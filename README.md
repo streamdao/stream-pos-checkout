@@ -22,7 +22,7 @@ This is a point-of-sale web app that allows us to take payments from customers i
   
   <div align="center">
     
-![solanapayQr](https://user-images.githubusercontent.com/3811091/162596348-9906f818-a4f9-482d-9602-97996ca60d95.gif)
+![Solana Pay QR](https://user-images.githubusercontent.com/3811091/162596348-9906f818-a4f9-482d-9602-97996ca60d95.gif)
     
   </div>
   

@@ -32,7 +32,7 @@ export default function Checkout() {
     splToken: usdcAddress,
     amount,
     reference,
-    label: 'Cookies Inc',
+    label: 'Stream Cookies Inc',
     message: 'Thanks for your order! 🍪 ',
   }
 

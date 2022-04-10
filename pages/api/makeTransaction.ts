@@ -26,7 +26,7 @@ type ErrorOutput = {
 
 function get(res: NextApiResponse<MakeTransactionGetResponse>) {
   res.status(200).json({
-    label: "Cookies Inc",
+    label: "Stream Cookies Inc",
     icon: "https://freesvg.org/img/1370962427.png",
   })
 }

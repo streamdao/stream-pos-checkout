@@ -11,9 +11,9 @@ const confettiConfig = {
     stagger: 3,
     width: "10px",
     height: "10px",
-    colors: ["#a864fd", "#29cdff", "#78ff44", "#ff718d", "#fdff6a"]
+    colors: ["#2C5364", "#29cdff", "#141E30", "#203a43", "#659CE3"]
   };
-
+  
 export default function Confirmed() {
   const [percentage, setPercentage] = useState(0)
   const [text, setText] = useState('🍪')
